@@ -1,0 +1,87 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+.flexible-container {
+    display: flex;
+    margin-bottom: 50px;
+}
+
+.haf-width {
+    width: 50%;
+    padding-left: 2%;
+}
+
+.haf-width img {
+    width: 80%;
+
+}
+
+.margin-top-img img {
+    margin-top: -70px;
+}
+
+.haf-width p {
+    text-align: justify;
+    width: 90%;
+}
+
+.haf-width h3 {
+    margin-top: 40px;
+}
+
+.heading-1 {
+    font-size: 50px;
+    line-height: 50px;
+    border-left: solid 5px rgb(3, 238, 81);
+    margin-top: 100px;
+}
+
+.hotpink {
+    color: hotpink;
+}
+
+.link-button {
+    text-decoration: none;
+    padding: 10px 40px;
+    background-color: cyan;
+    color: rgb(243, 8, 184);
+    font-size: large;
+    font-style: italic;
+    font-weight: bolder;
+    border-radius: 5px;
+
+}
+
+
+.third-width {
+    width: 33.33%;
+    margin-left: 2%;
+    padding-left: 2%;
+    border-radius: 20px;
+    box-shadow: 10px 10px 40px gray;
+}
+
+.third-width img {
+    width: 50%;
+
+}
+
+.third-width p {
+    text-align: justify;
+    width: 90%;
+}
+
+.background-1 {
+    background-color: aquamarine;
+}
+
+.background-2 {
+    background-color: burlywood;
+}
+
+.background-3 {
+    background-color: darkkhaki;
+    margin-right: 90px;
+}
